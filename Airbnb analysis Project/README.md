@@ -39,7 +39,7 @@ This project explores and models Airbnb listing prices in New York City using a 
 ## 📄 Final Report
 A detailed report (including visuals, interpretations, and suggestions for model improvement) is available as a PDF:
 
-📎 **[Dashboard](AirBnB_dashboard_Image.pdf)**
+📎 ![Dashboard](AirBnB_dashboard_Image.jpg)
 
 ---
 
