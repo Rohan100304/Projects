@@ -25,7 +25,7 @@ This project explores and models Airbnb listing prices in New York City using a 
 - Trained MLR model on cleaned data
 - Evaluated model using:
   - **R² Score**: 0.33 (model explains ~33% of price variance)
-  - **Mean Squared Error**: ~$10,818 (~$104 average prediction error)
+  - **Mean Squared Error**: $10,818 (~$104 average prediction error)
 - Analyzed feature coefficients to interpret price influences
 
 ### 5. **Insights**
