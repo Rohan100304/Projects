@@ -1,8 +1,6 @@
 # 🏥 Medical No-Show Analysis
 
 
-#📎![Dashboard](Appointment_Dashboard.png)
-
 ## 📌 Project Overview
 
 This project aims to analyze and predict patient behavior regarding medical appointment attendance using real-world data from Brazil. Specifically, it explores what factors influence whether a patient shows up for a scheduled medical appointment. The analysis includes data cleaning, exploratory data analysis (EDA), machine learning modeling, and dashboard reporting using Power BI.
@@ -18,6 +16,9 @@ A Power BI dashboard was developed to visually communicate insights from the dat
 - Relationships between **health conditions** (e.g., diabetes, hypertension) and appointment attendance
 - Trends over time (by **day and month**) to detect behavioral patterns
 - Interactive filters for demographic exploration
+
+## 📎Dashboard
+![Dashboard](Appointment_Dashboard.png)
 
 ---
 
