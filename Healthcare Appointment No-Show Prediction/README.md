@@ -1,7 +1,7 @@
 # 🏥 Medical No-Show Analysis
 
 
-📎 ![Dashboard](Appointment Dashboard.jpg)
+📎 ![Dashboard](Appointment_Dashboard.jpg)
 
 ## 📌 Project Overview
 
