@@ -1,11 +1,11 @@
 
 # 🕵️‍♂️ Fraud Detection Model – Internship Project
 
-This repository showcases a machine learning project completed during my internship with INSAID. The objective was to identify fraudulent financial transactions using classification models and evaluate their effectiveness.
+This repository showcases a machine learning project which was give as a selection process at Accredian. The objective was to identify fraudulent financial transactions using classification models and evaluate their effectiveness.
 
 ## 📁 Project Overview
 
-The dataset contains financial transactions where only a small fraction are labeled as fraudulent. The task involved cleaning the data, feature engineering, building models, and evaluating their performance to detect fraud accurately.
+The dataset contains financial transactions with 64 lakh rows and 11 columns where only a small fraction are labeled as fraudulent. The task involved around  cleaning the data, feature engineering, building models, and evaluating their performance to detect fraud accurately.
 
 ## ⚙️ Tasks Completed
 
