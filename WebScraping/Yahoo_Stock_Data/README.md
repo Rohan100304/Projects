@@ -6,10 +6,11 @@ This project is a stock data scraping tool that collects historical stock prices
 ## 📁 Project Structure
 ```
 Yahoo_stock_data/
-├── Executable_Script.exe
+├── yahoo-stocks-data
 ├── Executable_Script.py
 ├── Stock_scraping_script.ipynb
-
+├──yahoo-stocks-data-uncleaned
+├──Project-Details
 ```
 
 ## 🚀 Features
@@ -48,3 +49,4 @@ Yahoo_stock_data/
 ```
 pip install pandas requests beautifulsoup4
 ```
+
