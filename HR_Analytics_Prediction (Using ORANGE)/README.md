@@ -37,7 +37,7 @@ To simulate a real-world attrition prediction scenario by introducing missing da
 
 ## 🧩 Orange Workflow
 
-![Orange Workflow](images/Orange_Workflow_Diagram.png)
+![Orange Workflow](Orange_Pics/Model_Img.png)
 
 ---
 
@@ -57,17 +57,16 @@ To simulate a real-world attrition prediction scenario by introducing missing da
 
 | Logistic Regression | Decision Tree | Random Forest |
 |---------------------|---------------|----------------|
-| ![images/LR_CM.png](images/LR_CM.png) | ![images/DT_CM.png](images/DT_CM.png) | ![images/RF_CM.png](images/RF_CM.png) |
+| ![images/LR_CM.png](Orange_Pics/Logestic_eval.png) | ![images/DT_CM.png](Orange_Pics/Decision_tree_elva.png) | ![images/RF_CM.png](Orange_Pics/random_forest_eval.png) |
 
 ---
 
 ## 🧪 Sample Images from EDA Process
 
-| Attrition Distribution | Correlation Heatmap | Age vs Attrition Boxplot |
-|------------------------|---------------------|---------------------------|
-| ![Attrition Dist](EDA_sample_pics/Attrition_Distribution.png) | ![Correlation](EDA_sample_pics/Feature_Correlation_Heatmap.png) | ![Boxplot](EDA_sample_pics/Boxplot_Age_vs_Attrition.png) |
+| Attrition Distribution | Age Distribution | Education Qualification | Department |
+|------------------------|------------------|--------------------------|------------|
+| ![Attrition Dist](EDA_sample_pics/atttrition_count.png) | ![Age](EDA_sample_pics/Age_distribution.png) | ![Education](EDA_sample_pics/Education_qualification.png) | ![Department](EDA_sample_pics/department.png) |
 
----
 
 ## 📌 Key Takeaways
 
